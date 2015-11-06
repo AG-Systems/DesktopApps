@@ -1,0 +1,9 @@
+F:\VS PROJECTS\Monitor\Monitor\bin\Release\Monitor.exe.config
+F:\VS PROJECTS\Monitor\Monitor\bin\Release\Monitor.exe
+F:\VS PROJECTS\Monitor\Monitor\bin\Release\Monitor.pdb
+F:\VS PROJECTS\Monitor\Monitor\obj\Release\Monitor.csprojResolveAssemblyReference.cache
+F:\VS PROJECTS\Monitor\Monitor\obj\Release\Monitor.Form1.resources
+F:\VS PROJECTS\Monitor\Monitor\obj\Release\Monitor.Properties.Resources.resources
+F:\VS PROJECTS\Monitor\Monitor\obj\Release\Monitor.csproj.GenerateResource.Cache
+F:\VS PROJECTS\Monitor\Monitor\obj\Release\Monitor.exe
+F:\VS PROJECTS\Monitor\Monitor\obj\Release\Monitor.pdb
