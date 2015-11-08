@@ -32,12 +32,13 @@ Maybe add about and help and be finished.
 
 Physics Calculator
 
-Version: V0.01-Alpha
+Version: V0.1-Alpha
 
 Issues:
 None at the moment
 
 What needs to be done for it to be finsihed:
+
 Add a help section, and make it so it can work with different algorithms.
 Make it look better.
 Make it noob friendlier
