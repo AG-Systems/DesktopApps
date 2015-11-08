@@ -16,7 +16,31 @@ Since almost everything will be made in Visual Studio, to run to exe you must fi
 
 4.  If you need any help, please issue me a report. In the future I am going to make it much easier to find it. 
 
+#Current version
 
+AurigaSpectator:
+
+Version: V0.1-Alpha
+
+Issues: Crashes after 10 secounds
+
+What needs to be done for it to be finished:
+Fix the crashes
+Maybe add about and help and be finished.
+
+
+
+Physics Calculator
+
+Version: V0.01-Alpha
+
+Issues:
+None at the moment
+
+What needs to be done for it to be finsihed:
+Add a help section, and make it so it can work with different algorithms.
+Make it look better.
+Make it noob friendlier
 
 
 ## About
