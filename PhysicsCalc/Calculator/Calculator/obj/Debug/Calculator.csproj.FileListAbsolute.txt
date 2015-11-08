@@ -1,0 +1,8 @@
+c:\users\auriga\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\auriga\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\auriga\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\auriga\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\auriga\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\auriga\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\auriga\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\auriga\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
