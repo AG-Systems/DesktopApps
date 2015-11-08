@@ -7,65 +7,27 @@ This is my collection of desktop applications I have made.
 How to run these programs:
 
 Since almost everything will be made in Visual Studio, to run to exe you must first:
+
 1. Download the zip
 
 2. Open up the folder of the program you want to run. 
 
 3. Find the "obj" folder, then the "Release" folder, and afterwards running the application.
 
+4.  If you need any help, please issue me a report. In the future I am going to make it much easier to find it. 
 
 
-## Contributing guidelines
 
-We’d love you to help us improve this project. To help us keep this collection
-high quality, we request that contributions adhere to the following guidelines.
 
-- **Provide a link to the application or project’s homepage**. Unless it’s
-  extremely popular, there’s a chance the maintainers don’t know about or use
-  the language, framework, editor, app, or project your change applies to.
+## About
 
-- **Provide links to documentation** supporting the change you’re making.
-  Current, canonical documentation mentioning the files being ignored is best.
-  If documentation isn’t available to support your change, do the best you can
-  to explain what the files being ignored are for.
+If you want to find more infomation about a specific program then click on the folder of the application and read the README.
 
-- **Explain why you’re making a change**. Even if it seems self-evident, please
-  take a sentence or two to tell us why your change or addition should happen.
-  It’s especially helpful to articulate why this change applies to *everyone*
-  who works with the applicable technology, rather than just you or your team.
-
-- **Please consider the scope of your change**. If your change specific to a
-  certain language or framework, then make sure the change is made to the
-  template for that language or framework, rather than to the template for an
-  editor, tool, or operating system.
-
-- **Please only modify *one template* per pull request**. This helps keep pull
-  requests and feedback focused on a specific project or technology.
-
-In general, the more you can do to help us understand the change you’re making,
-the more likely we’ll be to accept your contribution quickly.
-
-Please also understand that we can’t list every tool that ever existed.
-Our aim is to curate a collection of the *most common and helpful* templates,
-not to make sure we cover every project possible. If we choose not to
-include your language, tool, or project, it’s not because it’s not awesome.
 
 ## Contributing workflow
 
-Here’s how we suggest you go about proposing a change to this project:
-
-1. [Fork this project][fork] to your account.
-2. [Create a branch][branch] for the change you intend to make.
-3. Make your changes to your fork.
-4. [Send a pull request][pr] from your fork’s branch to our `master` branch.
-
-Using the web-based interface to make changes is fine too, and will help you
-by automatically forking the project and prompting to send a pull request too.
-
-[fork]: https://help.github.com/articles/fork-a-repo/
-[branch]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository
-[pr]: https://help.github.com/articles/using-pull-requests/
+If you want to help me out, please file me a issue and I will sort it out. 
 
 ## License
 
-[MIT](./LICENSE).
+Eh, just don't steal it like a scrub. Make your own stuff :^)
