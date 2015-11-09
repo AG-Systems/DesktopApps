@@ -119,5 +119,10 @@ namespace Calculator
         {
             int x = 1;
         }
+
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Version: V0.2-Alpha");
+        }
     }
 }

@@ -6,3 +6,4 @@ c:\users\auriga\documents\visual studio 2015\Projects\Calculator\Calculator\obj\
 c:\users\auriga\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
 c:\users\auriga\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.exe
 c:\users\auriga\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.pdb
+C:\Users\Auriga\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache

@@ -176,6 +176,7 @@
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
             this.aboutToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.aboutToolStripMenuItem.Text = "About!";
+            this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
             // 
             // modeToolStripMenuItem
             // 
@@ -192,32 +193,32 @@
             // velocityv1ToolStripMenuItem
             // 
             this.velocityv1ToolStripMenuItem.Name = "velocityv1ToolStripMenuItem";
-            this.velocityv1ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.velocityv1ToolStripMenuItem.Size = new System.Drawing.Size(140, 22);
             this.velocityv1ToolStripMenuItem.Text = "Velocity(v1)";
             this.velocityv1ToolStripMenuItem.Click += new System.EventHandler(this.velocityv1ToolStripMenuItem_Click);
             // 
             // distanceToolStripMenuItem
             // 
             this.distanceToolStripMenuItem.Name = "distanceToolStripMenuItem";
-            this.distanceToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.distanceToolStripMenuItem.Size = new System.Drawing.Size(140, 22);
             this.distanceToolStripMenuItem.Text = "Distance";
             // 
             // accelerationToolStripMenuItem
             // 
             this.accelerationToolStripMenuItem.Name = "accelerationToolStripMenuItem";
-            this.accelerationToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.accelerationToolStripMenuItem.Size = new System.Drawing.Size(140, 22);
             this.accelerationToolStripMenuItem.Text = "Acceleration";
             // 
             // timeToolStripMenuItem
             // 
             this.timeToolStripMenuItem.Name = "timeToolStripMenuItem";
-            this.timeToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.timeToolStripMenuItem.Size = new System.Drawing.Size(140, 22);
             this.timeToolStripMenuItem.Text = "Time";
             // 
             // velocityv2ToolStripMenuItem
             // 
             this.velocityv2ToolStripMenuItem.Name = "velocityv2ToolStripMenuItem";
-            this.velocityv2ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.velocityv2ToolStripMenuItem.Size = new System.Drawing.Size(140, 22);
             this.velocityv2ToolStripMenuItem.Text = "Velocity(v2)";
             // 
             // Form1
@@ -239,7 +240,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "PhysicsCalculator";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
