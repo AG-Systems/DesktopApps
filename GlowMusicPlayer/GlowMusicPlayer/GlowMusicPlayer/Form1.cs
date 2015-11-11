@@ -17,7 +17,7 @@ namespace GlowMusicPlayer
             InitializeComponent();
         }
         string[] f, p;
-
+        int x = 0;
         private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
         {
 
@@ -27,10 +27,20 @@ namespace GlowMusicPlayer
         {
             axWindowsMediaPlayer1.URL = p[listBox1.SelectedIndex];
         }
+        
+        private void axWindowsMediaPlayer2_Enter(object sender, EventArgs e)
+        {
+            if (axWindowsMediaPlayer2.playState == WMPLib.WMPPlayState.wmppsStopped)
+            {
+                axWindowsMediaPlayer2.Ctlcontrols.play();
+            }
+            axWindowsMediaPlayer2.settings.setMode("loop", true);
+        }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void openToolStripMenuItem_Click(object sender, EventArgs e)
         {
             WMPLib.WindowsMediaPlayer wplayer = new WMPLib.WindowsMediaPlayer();
+
             OpenFileDialog open = new OpenFileDialog();
             if (openFileDialog1.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
@@ -40,14 +50,72 @@ namespace GlowMusicPlayer
                 {
                     listBox1.Items.Add(f[i]);
                 }
+                /*
+                    foreach (string d in open.FileName)
+                    {
+                        listBox1.Items.Add(d);
+                    }
+                    */
+            }
+        }
+
+        private void hideToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            axWindowsMediaPlayer1.uiMode = "none";
+        }
+
+        private void unhideToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            axWindowsMediaPlayer1.uiMode = "full";
+            button1.Visible = true;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            axWindowsMediaPlayer1.Ctlcontrols.play();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            axWindowsMediaPlayer1.Ctlcontrols.pause();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
             /*
+            WMPLib.WindowsMediaPlayer wplayer = new WMPLib.WindowsMediaPlayer();
+
+            OpenFileDialog open = new OpenFileDialog();
+            if (openFileDialog1.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            {
+                f = openFileDialog1.SafeFileNames;
+                p = openFileDialog1.FileNames;
+                for (int i = 0; i < f.Length; i++)
+                {
+                    listBox1.Items.Add(f[i]);
+                }
+            
                 foreach (string d in open.FileName)
                 {
                     listBox1.Items.Add(d);
                 }
                 */
+            x++;
+            if (x % 2 == 0)
+            {
+                menuStrip1.Visible = false;
+                button2.Visible = false;
+                button3.Visible = false;
+                axWindowsMediaPlayer1.Visible = false;
+            }
+            else
+            {
+                menuStrip1.Visible = true;
+                button2.Visible = true;
+                button3.Visible = true;
+                axWindowsMediaPlayer1.Visible = true;
+            }
             }
 
         }
     }
-}

@@ -3,7 +3,6 @@ c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicP
 c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\bin\Debug\GlowMusicPlayer.pdb
 c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\bin\Debug\Interop.WMPLib.dll
 c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
-c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Debug\GlowMusicPlayer.csprojResolveAssemblyReference.cache
 c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Debug\Interop.WMPLib.dll
 c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
 c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Debug\GlowMusicPlayer.csproj.ResolveComReference.cache
