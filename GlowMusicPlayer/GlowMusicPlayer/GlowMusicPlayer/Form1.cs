@@ -80,6 +80,20 @@ namespace GlowMusicPlayer
             axWindowsMediaPlayer1.Ctlcontrols.pause();
         }
 
+        private void setupToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog openFileDialog1 = new OpenFileDialog();
+
+            if (openFileDialog1.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            {
+                this.textBox1.Text = openFileDialog1.FileName;
+                axWindowsMediaPlayer2.URL = textBox1.Text;
+                axWindowsMediaPlayer2.uiMode = "none";
+                axWindowsMediaPlayer2.Ctlcontrols.play();
+
+            }
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             /*

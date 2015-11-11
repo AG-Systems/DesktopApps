@@ -6,7 +6,6 @@ C:\Users\Auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicP
 C:\Users\Auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\bin\Release\GlowMusicPlayer.pdb
 C:\Users\Auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\bin\Release\Interop.WMPLib.dll
 C:\Users\Auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\bin\Release\AxInterop.WMPLib.dll
-C:\Users\Auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Release\GlowMusicPlayer.csprojResolveAssemblyReference.cache
 C:\Users\Auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Release\GlowMusicPlayer.Form1.resources
 C:\Users\Auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Release\GlowMusicPlayer.Properties.Resources.resources
 C:\Users\Auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Release\GlowMusicPlayer.csproj.GenerateResource.Cache
