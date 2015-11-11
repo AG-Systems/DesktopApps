@@ -45,7 +45,7 @@ Make it noob friendlier
 
 GlowMusicPlayer
 
-Version: V0.1-Alpha
+Version: V0.3-Beta
 
 Issues:
 None at the moment.
