@@ -1,0 +1,14 @@
+c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\bin\Debug\GlowMusicPlayer.exe.config
+c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\bin\Debug\GlowMusicPlayer.exe
+c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\bin\Debug\GlowMusicPlayer.pdb
+c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\bin\Debug\Interop.WMPLib.dll
+c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Debug\GlowMusicPlayer.csprojResolveAssemblyReference.cache
+c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Debug\Interop.WMPLib.dll
+c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Debug\GlowMusicPlayer.csproj.ResolveComReference.cache
+c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Debug\GlowMusicPlayer.Form1.resources
+c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Debug\GlowMusicPlayer.Properties.Resources.resources
+c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Debug\GlowMusicPlayer.csproj.GenerateResource.Cache
+c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Debug\GlowMusicPlayer.exe
+c:\users\auriga\documents\visual studio 2015\Projects\GlowMusicPlayer\GlowMusicPlayer\obj\Debug\GlowMusicPlayer.pdb
