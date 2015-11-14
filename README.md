@@ -32,7 +32,7 @@ Maybe add about and help and be finished.
 
 Physics Calculator
 
-Version: V0.2-Alpha
+Version: V0.3-Alpha
 
 Issues:
 None at the moment
