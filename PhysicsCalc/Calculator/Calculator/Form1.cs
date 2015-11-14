@@ -8,10 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+
 namespace Calculator
 {
     public partial class Form1 : Form
     {
+        int x = 0;
         public Form1()
         {
             InitializeComponent();
@@ -72,6 +75,7 @@ namespace Calculator
         infinity = Convert.ToDouble(textBox5.Text);
         infinity = double.Parse(textBox5.Text);
         */
+
                 velo = introvelo + (accel * infinity);
                 System.Windows.Forms.MessageBox.Show(velo.ToString());
         
@@ -117,12 +121,202 @@ namespace Calculator
 
         private void velocityv1ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            int x = 1;
+
         }
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Version: V0.2-Alpha");
+        }
+
+        private void distanceToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            int x = 1;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int x = 0;
+            int counter = 0;
+            double distance = 0.0;
+            double introvelo = 0.0;
+            double velo = 0.0;
+            double accel = 0.0;
+            double infinity = 0.0;
+            //distance = Convert.ToDouble(textBox1.Text);
+            //distance = double.Parse(textBox1.Text);
+            if (double.TryParse(textBox1.Text, out distance))
+            {
+                distance = Convert.ToDouble(textBox1.Text);
+                distance = double.Parse(textBox1.Text);
+                counter++;
+            }
+            if (double.TryParse(textBox2.Text, out introvelo))
+            {
+                introvelo = Convert.ToDouble(textBox2.Text);
+                introvelo = double.Parse(textBox2.Text);
+                counter++;
+            }
+            if (double.TryParse(textBox3.Text, out velo))
+            {
+                velo = Convert.ToDouble(textBox3.Text);
+                velo = double.Parse(textBox3.Text);
+                counter++;
+            }
+            if (double.TryParse(textBox4.Text, out accel))
+            {
+                accel = Convert.ToDouble(textBox4.Text);
+                accel = double.Parse(textBox4.Text);
+                counter++;
+            }
+            if (double.TryParse(textBox5.Text, out infinity))
+            {
+                infinity = Convert.ToDouble(textBox5.Text);
+                infinity = double.Parse(textBox5.Text);
+                counter++;
+            }
+
+
+            distance = 0 + (introvelo * infinity) + (.5 * accel * infinity * infinity);
+            System.Windows.Forms.MessageBox.Show(distance.ToString());
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int x = 0;
+            int counter = 0;
+            double distance = 0.0;
+            double introvelo = 0.0;
+            double velo = 0.0;
+            double accel = 0.0;
+            double infinity = 0.0;
+            //distance = Convert.ToDouble(textBox1.Text);
+            //distance = double.Parse(textBox1.Text);
+            if (double.TryParse(textBox1.Text, out distance))
+            {
+                distance = Convert.ToDouble(textBox1.Text);
+                distance = double.Parse(textBox1.Text);
+                counter++;
+            }
+            if (double.TryParse(textBox2.Text, out introvelo))
+            {
+                introvelo = Convert.ToDouble(textBox2.Text);
+                introvelo = double.Parse(textBox2.Text);
+                counter++;
+            }
+            if (double.TryParse(textBox3.Text, out velo))
+            {
+                velo = Convert.ToDouble(textBox3.Text);
+                velo = double.Parse(textBox3.Text);
+                counter++;
+            }
+            if (double.TryParse(textBox4.Text, out accel))
+            {
+                accel = Convert.ToDouble(textBox4.Text);
+                accel = double.Parse(textBox4.Text);
+                counter++;
+            }
+            if (double.TryParse(textBox5.Text, out infinity))
+            {
+                infinity = Convert.ToDouble(textBox5.Text);
+                infinity = double.Parse(textBox5.Text);
+                counter++;
+            }
+
+
+            introvelo = velo - (accel * infinity);
+            System.Windows.Forms.MessageBox.Show(introvelo.ToString());
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int x = 0;
+            int counter = 0;
+            double distance = 0.0;
+            double introvelo = 0.0;
+            double velo = 0.0;
+            double accel = 0.0;
+            double infinity = 0.0;
+            //distance = Convert.ToDouble(textBox1.Text);
+            //distance = double.Parse(textBox1.Text);
+            if (double.TryParse(textBox1.Text, out distance))
+            {
+                distance = Convert.ToDouble(textBox1.Text);
+                distance = double.Parse(textBox1.Text);
+                counter++;
+            }
+            if (double.TryParse(textBox2.Text, out introvelo))
+            {
+                introvelo = Convert.ToDouble(textBox2.Text);
+                introvelo = double.Parse(textBox2.Text);
+                counter++;
+            }
+            if (double.TryParse(textBox3.Text, out velo))
+            {
+                velo = Convert.ToDouble(textBox3.Text);
+                velo = double.Parse(textBox3.Text);
+                counter++;
+            }
+            if (double.TryParse(textBox4.Text, out accel))
+            {
+                accel = Convert.ToDouble(textBox4.Text);
+                accel = double.Parse(textBox4.Text);
+                counter++;
+            }
+            if (double.TryParse(textBox5.Text, out infinity))
+            {
+                infinity = Convert.ToDouble(textBox5.Text);
+                infinity = double.Parse(textBox5.Text);
+                counter++;
+            }
+
+            accel = ((velo - introvelo) % infinity);
+            System.Windows.Forms.MessageBox.Show(accel.ToString());
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            int x = 0;
+            int counter = 0;
+            double distance = 0.0;
+            double introvelo = 0.0;
+            double velo = 0.0;
+            double accel = 0.0;
+            double infinity = 0.0;
+            //distance = Convert.ToDouble(textBox1.Text);
+            //distance = double.Parse(textBox1.Text);
+            if (double.TryParse(textBox1.Text, out distance))
+            {
+                distance = Convert.ToDouble(textBox1.Text);
+                distance = double.Parse(textBox1.Text);
+                counter++;
+            }
+            if (double.TryParse(textBox2.Text, out introvelo))
+            {
+                introvelo = Convert.ToDouble(textBox2.Text);
+                introvelo = double.Parse(textBox2.Text);
+                counter++;
+            }
+            if (double.TryParse(textBox3.Text, out velo))
+            {
+                velo = Convert.ToDouble(textBox3.Text);
+                velo = double.Parse(textBox3.Text);
+                counter++;
+            }
+            if (double.TryParse(textBox4.Text, out accel))
+            {
+                accel = Convert.ToDouble(textBox4.Text);
+                accel = double.Parse(textBox4.Text);
+                counter++;
+            }
+            if (double.TryParse(textBox5.Text, out infinity))
+            {
+                infinity = Convert.ToDouble(textBox5.Text);
+                infinity = double.Parse(textBox5.Text);
+                counter++;
+            }
+            infinity = (velo - introvelo) % accel;
+            System.Windows.Forms.MessageBox.Show(infinity.ToString());
         }
     }
 }

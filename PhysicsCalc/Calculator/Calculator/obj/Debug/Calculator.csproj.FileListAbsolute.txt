@@ -6,3 +6,11 @@ c:\users\auriga\documents\visual studio 2015\Projects\Calculator\Calculator\bin\
 c:\users\auriga\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
 c:\users\auriga\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
 c:\users\auriga\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\VS PROJECTS\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\VS PROJECTS\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\VS PROJECTS\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\VS PROJECTS\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\VS PROJECTS\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\VS PROJECTS\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+F:\VS PROJECTS\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\VS PROJECTS\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
