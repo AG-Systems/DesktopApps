@@ -1,0 +1,9 @@
+D:\Projects\Splitr\Splitr\bin\Debug\Splitr.exe.config
+D:\Projects\Splitr\Splitr\bin\Debug\Splitr.exe
+D:\Projects\Splitr\Splitr\bin\Debug\Splitr.pdb
+D:\Projects\Splitr\Splitr\obj\Debug\Splitr.csprojResolveAssemblyReference.cache
+D:\Projects\Splitr\Splitr\obj\Debug\Splitr.Form1.resources
+D:\Projects\Splitr\Splitr\obj\Debug\Splitr.Properties.Resources.resources
+D:\Projects\Splitr\Splitr\obj\Debug\Splitr.csproj.GenerateResource.Cache
+D:\Projects\Splitr\Splitr\obj\Debug\Splitr.exe
+D:\Projects\Splitr\Splitr\obj\Debug\Splitr.pdb
