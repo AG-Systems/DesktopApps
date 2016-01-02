@@ -30,6 +30,10 @@ Maybe add about and help and be finished.
 
 
 
+
+
+
+
 Physics Calculator
 
 Version: V0.3-Alpha
@@ -43,6 +47,13 @@ Add a help section, and make it so it can work with different algorithms.
 Make it look better.
 Make it noob friendlier
 
+
+
+
+
+
+
+
 GlowMusicPlayer
 
 Version: V0.3-Beta
@@ -51,6 +62,21 @@ Issues:
 None at the moment.
 
 
+
+
+
+
+
+
+Splitr
+
+Version: V0.1-Alpha
+
+Issues:
+
+None at the moment
+
+Features: Have 2 websites running on the same browser at the same time.
 ## About
 
 If you want to find more infomation about a specific program then click on the folder of the application and read the README.
